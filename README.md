@@ -9,10 +9,12 @@ current features:
 - Counter for number of flips
 - Counter for number of matched cards
 - Reset game funtion
+- Visually appealing GUI
 - Appealing GUI
 
 In progress:
 - NFL theamed game
 - Background music
 - Time counter
+- Leaderboard (utilyzing a backend database to keep track of scores across uses)
 - Leaderboard (utilyzing a backend database to keep track of scores across uses)
