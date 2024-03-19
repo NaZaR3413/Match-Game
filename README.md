@@ -10,7 +10,7 @@ current features:
 - Counter for number of matched cards
 - Reset game funtion
 - Visually appealing GUI
-- Appealing GUI
+- Visually appealing GUI
 
 In progress:
 - NFL theamed game
