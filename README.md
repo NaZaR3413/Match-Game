@@ -17,4 +17,3 @@ In progress:
 - Background music
 - Time counter
 - Leaderboard (utilyzing a backend database to keep track of scores across uses)
-- Leaderboard (utilyzing a backend database to keep track of scores across uses)
